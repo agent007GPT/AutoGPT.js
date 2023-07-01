@@ -2,7 +2,9 @@
 
 AutoGPT.js is an open-source project that aims to bring the powerful capabilities of AutoGPT to your browser. By running directly in the browser, AutoGPT.js offers greater accessibility and privacy.
 
-Visit [AutoGPTjs.com](https://autogptjs.com)
+Let'smodify the UI for agent007GPT 
+
+Visit [AutoGPTjs.com](https://autogptjs.com)  
 
 ![Website snapshot](docs/website-snapshot.png)
 
